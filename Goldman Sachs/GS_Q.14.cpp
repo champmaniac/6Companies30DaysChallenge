@@ -1,3 +1,5 @@
+// TC O(N*N) SC O(1)
+
 class Solution {
 public:
     int minSubArrayLen(int target, vector<int>& nums) {
