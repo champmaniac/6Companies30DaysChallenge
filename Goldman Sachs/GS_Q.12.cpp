@@ -2,7 +2,6 @@
 class Solution {
   public:
     long long squaresInChessBoard(long long n) {
-        // code here
         // base case
         if(n==1)
             return 1;
