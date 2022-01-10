@@ -22,7 +22,7 @@ public:
 	        if(nuts[i]=='!') arr[0]='!';
 	        else if(nuts[i]=='#')arr[1]='#';
 	        else if(nuts[i]=='$')arr[2]='$';
-	        else  if(nuts[i]=='%')arr[3]='%';
+	        else if(nuts[i]=='%')arr[3]='%';
 	        else if(nuts[i]=='&')arr[4]='&';
 	        else if(nuts[i]=='*')arr[5]='*';
 	        else if(nuts[i]=='@')arr[6]='@';
