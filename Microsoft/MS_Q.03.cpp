@@ -1,4 +1,4 @@
-// TC O(N^N)
+// TC O(N^N) SC O(1)
 void transpose(vector<vector<int> >& matrix){
     int n = matrix.size();
     for(int i=0;i<n;i++){
