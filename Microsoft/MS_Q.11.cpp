@@ -1,4 +1,4 @@
-// TC O(NLogN) SC O(NLogN)
+// TC O(N) SC O(N)
 vector<string> generate(int N)
 {
 	// Your code here
