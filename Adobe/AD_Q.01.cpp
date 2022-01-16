@@ -20,6 +20,7 @@ class Solution
                 r++;
                 count+= arr[r-1];
             }
+            
             else
             {
                 l++;
